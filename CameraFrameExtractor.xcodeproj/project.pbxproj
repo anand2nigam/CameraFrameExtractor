@@ -283,7 +283,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PEJFTUUQ95;
+				DEVELOPMENT_TEAM = RN62QHGFQQ;
 				INFOPLIST_FILE = CameraFrameExtractor/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -301,7 +301,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PEJFTUUQ95;
+				DEVELOPMENT_TEAM = RN62QHGFQQ;
 				INFOPLIST_FILE = CameraFrameExtractor/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
